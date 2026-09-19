@@ -227,7 +227,7 @@ class _QuizScreenState extends State<QuizScreen> {
   String _errorMsg = '';
 
   // ⚠️ استبدل IP هنا إذا تغيّر
-  final String _apiBase = 'http://192.168.0.102:8080/iraq_edu';
+  final String _apiBase = 'http://192.168.0.100:8080/iraq_edu';
 
   @override
   void initState() {
